@@ -1,0 +1,179 @@
+\t (00:00:34) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:34)     Journal start - Sat Jan 20 23:08:01 2024
+\t (00:00:34)         Host=LAPTOP-BOC9P1U6 User=lucks Pid=19112 CPUs=8
+\t (00:00:34) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:34) 
+\d (00:00:34) Design opened: C:/Users/lucks/OneDrive - Universitatea Politehnica Bucuresti/Desktop/Facultate/Anul III/Sem I/P1 varianta finala/Schematics/allegro/DAVID_LUCA_2023_PACT_N8_rev6.brd
+\i (00:00:34) generaledit 
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 1415.52 525.13
+\i (00:00:35) trapsize 739
+\i (00:00:36) zoom fit 
+\i (00:00:36) trapsize 985
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 804.93 995.06
+\i (00:00:37) trapsize 1970
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 1640.32 1062.04
+\i (00:00:38) trapsize 985
+\i (00:00:39) roam start
+\i (00:00:39) roam x -16
+\i (00:00:39) roam x -16
+\i (00:00:39) roam y 16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam y 16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:41) roam x -16
+\i (00:00:41) roam end
+\i (00:18:58) trapsize 1429
+\i (00:18:58) trapsize 2611
+\i (00:19:11) artwork 
+\i (00:19:13) setwindow form.film_control
+\i (00:19:13) FORM film_control filmtree  FAB 
+\i (00:19:16) FORM film_control filmtree popup Cut FAB 
+\i (00:19:22) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:19:29) fillin "FAB"
+\i (00:19:40) setwindow form.scl_browser
+\i (00:19:40) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:19:40) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:19:50) FORM scl_browser treelist 'MULTISEL YES' DIMENSION 'BOARD GEOMETRY' 
+\i (00:19:50) FORM scl_browser treelist  DIMENSION 'BOARD GEOMETRY' 
+\i (00:20:04) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_FIGURE MANUFACTURING 
+\i (00:20:04) FORM scl_browser treelist  NCDRILL_FIGURE MANUFACTURING 
+\i (00:20:04) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_LEGEND MANUFACTURING 
+\i (00:20:04) FORM scl_browser treelist  NCDRILL_LEGEND MANUFACTURING 
+\i (00:20:05) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
+\i (00:20:05) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
+\i (00:20:13) FORM scl_browser treelist 'MULTISEL YES' DRAWING_ORIGIN 'DRAWING FORMAT' 
+\i (00:20:13) FORM scl_browser treelist  DRAWING_ORIGIN 'DRAWING FORMAT' 
+\i (00:20:22) FORM scl_browser done  
+   (00:20:22) WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+\i (00:20:26) fillin confirm
+\i (00:20:33) setwindow form.film_control
+\i (00:20:33) FORM film_control general_parameters  
+\i (00:20:34) FORM film_control film_control  
+\i (00:20:39) FORM film_control ok  
+\i (00:20:39) setwindow pcb
+\i (00:20:39) generaledit 
+\i (00:20:45) artwork 
+\i (00:20:50) setwindow form.film_control
+\i (00:20:50) FORM film_control filmtree 'MULTISEL YES' FAB 
+\i (00:20:50) FORM film_control filmtree  FAB 
+\i (00:20:52) FORM film_control create  
+\i (00:20:54) fillin no 
+\i (00:21:06) FORM film_control undefined_line_width 10.00 
+\i (00:21:06) FORM film_control create  
+\i (00:21:12) fillin yes 
+\t (00:21:12) Checking db records
+\t (00:21:12)     checking for orphans...
+\t (00:21:12)     Checked 100 percent
+\t (00:21:12) Done dbdoctor.
+\t (00:21:12) Starting Create artwork films...
+\w (00:21:13) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:21:14) Artwork generated with warnings.
+\i (00:21:18) setwindow pcb
+\i (00:21:18) setwindow text
+\i (00:21:18) close
+\i (00:22:16) setwindow form.film_control
+\i (00:22:16) FORM film_control filmtree popup Cut FAB 
+\i (00:22:19) FORM film_control ok  
+\i (00:22:19) setwindow pcb
+\i (00:22:19) generaledit 
+\i (00:22:28) artwork 
+\i (00:22:30) setwindow form.film_control
+\i (00:22:30) FORM film_control filmtree  TOP 
+\i (00:22:30) FORM film_control filmtree  TOP 
+\i (00:22:32) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:22:35) fillin "FAB"
+\i (00:22:41) setwindow form.scl_browser
+\i (00:22:41) FORM scl_browser treelist  'ANTI ETCH' 
+\i (00:22:43) FORM scl_browser treelist 'MULTISEL YES' CUTOUT 'BOARD GEOMETRY' 
+\i (00:22:43) FORM scl_browser treelist  CUTOUT 'BOARD GEOMETRY' 
+\i (00:22:45) FORM scl_browser treelist 'MULTISEL YES' DIMENSION 'BOARD GEOMETRY' 
+\i (00:22:45) FORM scl_browser treelist  DIMENSION 'BOARD GEOMETRY' 
+\i (00:22:54) FORM scl_browser treelist 'MULTISEL YES' DRAWING_ORIGIN 'DRAWING FORMAT' 
+\i (00:22:54) FORM scl_browser treelist  DRAWING_ORIGIN 'DRAWING FORMAT' 
+\i (00:23:00) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_FIGURE MANUFACTURING 
+\i (00:23:00) FORM scl_browser treelist  NCDRILL_FIGURE MANUFACTURING 
+\i (00:23:00) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_LEGEND MANUFACTURING 
+\i (00:23:00) FORM scl_browser treelist  NCDRILL_LEGEND MANUFACTURING 
+\i (00:23:01) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
+\i (00:23:01) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
+\i (00:23:01) FORM scl_browser done  
+\i (00:23:04) setwindow form.film_control
+\i (00:23:04) FORM film_control filmtree  FAB 
+\i (00:23:05) FORM film_control filmtree 'MULTISEL YES' FAB 
+\i (00:23:16) FORM film_control undefined_line_width 10.00 
+\i (00:23:16) FORM film_control general_parameters  
+\i (00:23:16) FORM film_control film_control  
+\i (00:23:17) FORM film_control create  
+\i (00:23:27) fillin no 
+\i (00:23:33) FORM film_control filmtree popup Add FAB 
+\i (00:23:34) fillin "menu_cancel"
+\i (00:23:38) FORM film_control filmtree popup 'Add Manual' FAB 
+\i (00:23:39) fillin "menu_cancel"
+\i (00:23:42) FORM film_control filmtree popup Add 'BOARD GEOMETRY/CUTOUT' FAB 
+\i (00:23:49) setwindow form.scl_browser
+\i (00:23:49) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
+\i (00:23:49) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
+\i (00:23:52) FORM scl_browser done  
+\i (00:23:55) setwindow form.film_control
+\i (00:23:55) FORM film_control create  
+\i (00:24:02) fillin no 
+\i (00:24:13) FORM film_control create  
+\i (00:24:26) fillin no 
+\i (00:24:34) FORM film_control create  
+\i (00:24:35) fillin yes 
+\t (00:24:35) Checking db records
+\t (00:24:35)     checking for orphans...
+\t (00:24:35)     Checked 100 percent
+\t (00:24:35) Done dbdoctor.
+\t (00:24:35) Starting Create artwork films...
+\w (00:24:36) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:24:37) Artwork generated with warnings.
+\i (00:24:49) setwindow pcb
+\i (00:24:49) setwindow text
+\i (00:24:49) close
+\i (00:30:00) trapsize 985
+\i (00:30:01) setwindow form.film_control
+\i (00:30:01) FORM film_control cancel  
+\i (00:30:01) setwindow pcb
+\i (00:30:01) generaledit 
+\i (00:30:06) nctape_full 
+\i (00:30:15) setwindow form.nc_drill
+\i (00:30:15) FORM nc_drill parameters  
+\i (00:30:21) setwindow form.nc_parameters
+\i (00:30:21) FORM nc_parameters cancel  
+\i (00:30:37) setwindow form.nc_drill
+\i (00:30:37) FORM nc_drill scale 1.00 
+\i (00:30:37) FORM nc_drill parameters  
+\i (00:31:01) setwindow form.nc_parameters
+\i (00:31:01) FORM nc_parameters done  
+\i (00:31:05) setwindow form.nc_drill
+\i (00:31:05) FORM nc_drill browse  
+\i (00:31:07) fillin "menu_cancel"
+\i (00:31:20) FORM nc_drill execute  
+\t (00:31:20) Starting Generating NC Drill...
+\e (00:31:20) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:31:21) A problem occurred, see the logfile (using Viewlog).
+\i (00:31:36) setwindow pcb
+\i (00:31:36) setwindow text
+\i (00:31:36) close
+\i (00:32:26) setwindow form.nc_drill
+\i (00:32:26) FORM nc_drill tape_name DRILL 
+\i (00:32:26) FORM nc_drill execute  
+\t (00:32:26) Starting Generating NC Drill...
+\i (00:34:16) FORM nc_drill cancel  
+\i (00:34:16) setwindow pcb
+\i (00:34:16) generaledit 
+\i (00:34:19) zoom fit 
+\i (00:34:19) trapsize 985
+\i (00:51:06) exit 
+\e (00:51:06) Do you want to save the changes you made to DAVID_LUCA_2023_PACT_N8_rev6.brd?
+\i (00:51:07) fillin no 
+   (00:51:07) Loading signal.cxt 
+\t (00:51:07)     Journal end - Sat Jan 20 23:58:34 2024

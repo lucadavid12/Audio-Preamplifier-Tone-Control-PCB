@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : DAVID_LUCA_2023_PACT_N8_rev5.brd              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Jan 09 00:08:54 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\LUCKS\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\DESKTOP\FACULTATE\ANUL III\SEM I\P1 VARIANTA FINALA (SPER)\SCHEMATICS\allegro'
+Design Directory:            'C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro'
+Old design name:             'C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/DAVID_LUCA_2023_PACT_N8_rev5.brd'
+New design name:             'C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/DAVID_LUCA_2023_PACT_N8_rev6.brd'
+
+CmdLine: netrev.exe -y 1 -u -i C:\USERS\LUCKS\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\DESKTOP\FACULTATE\ANUL III\SEM I\P1 VARIANTA FINALA (SPER)\SCHEMATICS\allegro C:\USERS\LUCKS\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\DESKTOP\FACULTATE\ANUL III\SEM I\P1 VARIANTA FINALA (SPER)\SCHEMATICS\allegro\DAVID_LUCA_2023_PACT_N8_rev5.brd C:\USERS\LUCKS\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\DESKTOP\FACULTATE\ANUL III\SEM I\P1 VARIANTA FINALA (SPER)\SCHEMATICS\allegro\DAVID_LUCA_2023_PACT_N8_rev6.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstchip.dat 
+   Finished reading C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstchip.dat (00:00:00.02)
+Starting to read C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstxprt.dat 
+   Finished reading C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstxnet.dat 
+   Finished reading C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 9 0:08:54 2024
+   DESIGN NAME : 'DAVID_LUCA_2023_PACT_N8'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:36
+elapsed time  0:00:00
+

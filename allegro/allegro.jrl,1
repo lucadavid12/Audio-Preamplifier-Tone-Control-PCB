@@ -1,0 +1,150 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Jan 09 22:41:31 2024
+\t (00:00:02)         Host=LAPTOP-BOC9P1U6 User=lucks Pid=28684 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/USERS/LUCKS/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/DESKTOP/FACULTATE/ANUL III/SEM I/P1 VARIANTA FINALA (SPER)/SCHEMATICS/allegro/DAVID_LUCA_2023_PACT_N8_rev6.brd
+\i (00:00:03) trapsize 1065
+\i (00:00:03) trapsize 1091
+\i (00:00:03) trapsize 1179
+\i (00:00:03) trapsize 1042
+\i (00:00:03) trapsize 12625
+\i (00:00:03) trapsize 11573
+\i (00:00:03) trapsize 1069
+\i (00:00:03) generaledit 
+\i (00:00:08) xdehilite 
+\i (00:00:08) xrefdes P1 
+\i (00:00:08) xname_flush 
+\i (00:00:08) done 
+\i (00:00:08) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1489.28 436.72
+\i (00:00:11) trapsize 2137
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1489.29 436.73
+\i (00:00:11) trapsize 4275
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 3661.29 436.73
+\i (00:00:11) trapsize 8549
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 13022.59 436.73
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17001.22 -887.80
+\i (00:00:11) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17001.22 -887.80
+\i (00:00:12) trapsize 10366
+\i (00:00:13) zoom fit 
+\i (00:00:13) trapsize 985
+\i (00:00:30) color192 
+\i (00:00:30) generaledit 
+\i (00:00:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:00:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:42) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:00:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:42) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:46) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:00:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:47) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:48) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:49) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:50) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:54) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:54) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:00:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:00:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Dev type"
+\i (00:00:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Comp value"
+\i (00:00:59) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:20:52) xrefdes P1 
+\i (00:20:52) xname_flush 
+\i (00:20:52) trapsize 369
+\i (39:23:37) exit 
+\e (39:23:37) Do you want to save the changes you made to DAVID_LUCA_2023_PACT_N8_rev6.brd?
+\i (39:23:39) fillin yes 
+\t (39:23:39)     Journal end - Thu Jan 11 14:05:08 2024

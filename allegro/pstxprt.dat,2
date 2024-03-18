@@ -1,0 +1,440 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-03-2024 at 14:17:09 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DAVID_LUCA_2023_PACT_N8';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_100N':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57274@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57274@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57274@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_CAPC2008X126N_0805_2.2N':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57888@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57888@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57888@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAPC2008X126N_0805_2.2N':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57956@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57956@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57956@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57814@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57814@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57814@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58822@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58822@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58822@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57626@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57626@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57626@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57686@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57686@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57686@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC2008X126N_0805_1U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57460@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57460@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57460@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP POL_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS61228@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins61228@discrete.\cap pol.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins61228@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP POL_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS61244@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins61244@discrete.\cap pol.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins61244@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58678@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58678@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58678@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_CAPC2008X126N_0805_100N':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57096@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57096@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57096@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_CAPC2008X126N_0805_100N':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57116@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57116@analog.\c.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57116@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58438@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58438@connector.\con2.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58438@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58463@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58463@connector.\con2.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58463@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS62731@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins62731@connector.\con1.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins62731@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS62753@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins62753@connector.\con1.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins62753@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS62777@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins62777@connector.\con1.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins62777@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_TRIM_BI_23AN_50K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57004@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57004@breakout.\pot.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57004@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'POT_TRIM_BI_23AN_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57926@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57926@breakout.\pot.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57926@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57310@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57310@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57310@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57476@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57476@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57476@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57238@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57238@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57238@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57290@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57290@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57290@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57152@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57152@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57152@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58036@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58036@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58036@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES2012X50N_0805_6.8K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57566@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57566@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57566@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES2012X50N_0805_2.7K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58056@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58056@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58056@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES2012X50N_0805_8.2K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS56982@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins56982@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins56982@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_8.2K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57034@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57034@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57034@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES2012X50N_0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57904@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57904@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57904@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57336@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57336@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57336@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58016@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58016@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58016@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES2012X50N_0805_33':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57664@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57664@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57664@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES2012X50N_0805_68K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57172@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57172@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57172@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RES2012X50N_0805_2.5K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS58953@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins58953@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins58953@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57848@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57848@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57848@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS56896@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins56896@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins56896@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57430@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57430@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57430@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_5.6K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57868@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57868@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57868@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES2012X50N_0805_330':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57642@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57642@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57642@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES2012X50N_0805_1000K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57132@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57132@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57132@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@DAVID_LUCA_2023_PACT_N8.SCHEMATIC1(SCH_1):INS57702@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):ins57702@analog.\r.normal\(chips)',
+ P_PATH='@david_luca_2023_pact_n8.schematic1(sch_1):page1_ins57702@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
