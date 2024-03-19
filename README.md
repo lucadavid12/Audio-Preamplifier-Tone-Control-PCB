@@ -7,7 +7,11 @@ This repository hosts the design and documentation for a Audio Preamplifier Tone
 -OrCAD PCB Editor: A tiered, scalable PCB design solution that delivers advanced capabilities and highly integrated flows
 -GerbTool: A robust suite of PCB CAM tooling and analysis software
 
-# Layout
+# ELectrical circuit
 
-[layout](
+[circuit](Circuit.png)
+
+# PCB Layout
+
+[PCB](PCB.png)
 
