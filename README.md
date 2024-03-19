@@ -9,9 +9,9 @@ This repository hosts the design and documentation for a Audio Preamplifier Tone
 
 # ELectrical circuit
 
-[circuit](Circuit.png)
+![circuit](Circuit.png)
 
 # PCB Layout
 
-[PCB](PCB.png)
+![PCB](PCB.png)
 
