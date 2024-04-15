@@ -4,7 +4,9 @@ This repository hosts the design and documentation for a Audio Preamplifier Tone
 
 # Techologies used
 -Capture CIS Lite: A schematic entry tool for capturing the design intent of an electronic circuits
+
 -OrCAD PCB Editor: A tiered, scalable PCB design solution that delivers advanced capabilities and highly integrated flows
+
 -GerbTool: A robust suite of PCB CAM tooling and analysis software
 
 # ELectrical circuit
